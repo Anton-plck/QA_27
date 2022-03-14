@@ -9,7 +9,7 @@ Description - With the Calc application running, launch another copy of the appl
 							Expected result: Only one copy of the application can be run at a time.
 
 Steps to reproduce - 	1. Open the Calc application in any way possible.
-											2. Open the second copy of the application in any way possible.
+			2. Open the second copy of the application in any way possible.
 
 Severity - Minor
 
